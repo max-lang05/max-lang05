@@ -1,6 +1,5 @@
 ## Hi there 👋
 ### Im Max
-- 👀 I’m interested in learning about automating boring stuff and diffirent network technologies
 - 🤔 I currently know Python and Javascript
 ```
          _nnnn_
